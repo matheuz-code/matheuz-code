@@ -15,7 +15,7 @@ Estudante de Análise e Desenvolvimento de Sistemas e Ciência da Computação. 
 | Projeto | Experimente | Código e escopo |
 | --- | --- | --- |
 | Organizador de Downloads | [Planejar organização](https://matheuz-code.github.io/organizador-downloads/) | [Python + Web](https://github.com/matheuz-code/organizador-downloads). Simulação, categorias e conflitos sem upload de arquivos. |
-| BarberFlow demo | [Agendar com dados fictícios](https://matheuz-code.github.io/barberflow-demo/) | [Agenda independente](https://github.com/matheuz-code/barberflow-demo). Edição, conflitos e persistência local. |
+| BarberFlow (InovaTec) | [Abrir aplicação no Render](https://barberflow-inovatec.onrender.com/entrar) | Sistema de agendamentos para barbearias, com login e controle de horários. Código-fonte privado; aplicação pública. |
 | Grimorio RPG | [Criar uma campanha](https://matheuz-code.github.io/grimorio-rpg/) | [Aplicativo genérico](https://github.com/matheuz-code/grimorio-rpg). Fichas, inventário, notas, dados e lixeira recuperável. |
 
 ## Tecnologias praticadas nos projetos
