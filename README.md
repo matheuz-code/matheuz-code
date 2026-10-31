@@ -7,8 +7,8 @@ Estudante de Análise e Desenvolvimento de Sistemas e Ciência da Computação. 
 | Projeto | Experimente | Código e escopo |
 | --- | --- | --- |
 | Smart Price Monitor | [Pesquisar e comparar preços](https://matheuz-code.github.io/smart-price-monitor/) | [Python + JavaScript](https://github.com/matheuz-code/smart-price-monitor). Catálogo fictício, filtros, ordenação e diferenças calculadas. API Python separada, local. |
-| Comanda Aí | [Cardápio, carrinho e pedidos](https://matheuz-code.github.io/comanda-ai/) | [Branch de revisão](https://github.com/matheuz-code/comanda-ai/tree/portfolio/security-review) e [PR #1](https://github.com/matheuz-code/comanda-ai/pull/1), sem merge. Demo client-side isolada, com dados fictícios e persistência local. |
-| Dark Chicken | [Comanda digital acadêmica](https://comanda-digital-blue.vercel.app/) | Angular, Spring Boot, MySQL, JWT e Flyway. [Apresentação técnica](https://github.com/matheuz-code/dark-chicken-portfolio); fonte privada; cardápio e autenticação integrados. Pedidos visuais locais e backend sujeito a hibernação. |
+| Comanda Aí | [Abrir aplicação](https://comanda-ai-kappa.vercel.app/) | [Next.js, API e banco de dados](https://github.com/matheuz-code/comanda-ai). Cardápio, carrinho, pedidos e cozinha. Provisionamento de administrador e pagamentos reais em desenvolvimento. |
+| Dark Chicken | [Abrir aplicação](https://comanda-digital-blue.vercel.app/) | [Angular, Spring Boot, Java e MySQL](https://github.com/matheuz-code/dark-chicken-comanda-digital). Autenticação e cardápio integrados. Sprint 1 com pedidos persistidos, cozinha e estoque validado em testes; [PR #1](https://github.com/matheuz-code/dark-chicken-comanda-digital/pull/1) aguardando publicação em produção. |
 
 ## Mais demonstrações públicas
 
